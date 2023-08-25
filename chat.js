@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "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";
 // const prompt = document.querySelector("#prompt");
 // const button = document.querySelector("#generate");
 // const output = document.querySelector("#output");
